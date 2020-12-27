@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - ServicioSueldo",
+            "request": "launch",
+            "mainClass": "ServicioSueldo",
+            "projectName": "java-info-2020_686b3a06"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Ejercicio7",
             "request": "launch",
             "mainClass": "Ejercicio7",
